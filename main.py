@@ -1,10 +1,10 @@
+
 import FileSystemNode
-import FileSystem
 
 def main():
-    fs = FileSystem()
+    fs = FileSystemNode.FileSystem()
     fs.run()
 
 
-# if __name__ == '__main__':
-#     main()
+if __name__ == '__main__':
+    main()
