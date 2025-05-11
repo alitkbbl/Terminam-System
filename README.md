@@ -39,4 +39,3 @@ python terminal_system.py
 (cat notes.txt)
 
 
-AP proge from Ali and Mohammad.
