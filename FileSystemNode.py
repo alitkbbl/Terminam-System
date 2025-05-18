@@ -11,7 +11,6 @@ class FileSystemNode:
         self.parent = parent
         self.child = None
         self.next = None
-
         self.content = [] if is_file else None
 
     def add_child(self, child):
